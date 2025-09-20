@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gabriel Correa. 
 
--💻 Sou um futuro DEV focado e atento buscando sempre novas
+-💻 Futuro DEV, curioso e dedicado, sempre explorando novas ideias e aprendizados.
 habilidades e conhecimentos.
 
 <div align="center">
