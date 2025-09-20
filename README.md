@@ -1,7 +1,8 @@
 ### Olá! Meu nome é Gabriel Correa. 
 
 -💻 Futuro DEV, curioso e dedicado, sempre explorando novas ideias e aprendizados.
-habilidades e conhecimentos.
+
+"[Linkedin]([https://www.youtube.com/@larissakich](https://www.linkedin.com/in/gabriel-correa-abaa621a3/))"
 
 ### 🤖 Linguagens e Tecnologias
 
