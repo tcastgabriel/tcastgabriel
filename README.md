@@ -2,7 +2,7 @@
 
 -💻 Futuro DEV, curioso e dedicado, sempre explorando novas ideias e aprendizados.
 
-"[Linkedin](https://www.linkedin.com/in/gabriel-correa-abaa621a3/)"
+Meu [Linkedin](https://www.linkedin.com/in/gabriel-correa-abaa621a3/)
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -74,14 +74,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielCorrea&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCorrea&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
